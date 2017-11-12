@@ -12,10 +12,11 @@
 8. [ReverseLinkedList](https://leetcode.com/problems/reverse-linked-list)
 9. [ImageSmoother](https://leetcode.com/problems/image-smoother)
 10. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)
+11. [Ransom Note](https://leetcode.com/problems/ransom-note)
 
 ## To Solve
 
-
+1. [Permutations](https://leetcode.com/problems/permutations)
 
 ## Failed
 

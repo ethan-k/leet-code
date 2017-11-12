@@ -14,6 +14,7 @@
 10. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)
 11. [Ransom Note](https://leetcode.com/problems/ransom-note)
 
+
 ## To Solve
 
 1. [Permutations](https://leetcode.com/problems/permutations)
@@ -22,3 +23,4 @@
 
 1. [LongestUncommonSubsequence]()
 2. [PermutationInString]()
+3. [Count Primes](https://leetcode.com/problems/count-primes) -- exceeding time limit

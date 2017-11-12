@@ -13,7 +13,7 @@
 9. [ImageSmoother](https://leetcode.com/problems/image-smoother)
 10. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)
 11. [Ransom Note](https://leetcode.com/problems/ransom-note)
-
+12. [Count Primes](https://leetcode.com/problems/count-primes) -- exceeding time limit
 
 ## To Solve
 
@@ -23,4 +23,3 @@
 
 1. [LongestUncommonSubsequence]()
 2. [PermutationInString]()
-3. [Count Primes](https://leetcode.com/problems/count-primes) -- exceeding time limit

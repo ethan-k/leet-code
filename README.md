@@ -15,6 +15,7 @@
 11. [Ransom Note](https://leetcode.com/problems/ransom-note)
 12. [Count Primes](https://leetcode.com/problems/count-primes)
 13. [Two Sum](https://leetcode.com/problems/two-sum) 
+14. [Replace Words](https://leetcode.com/problems/replace-words)
 
 ## To Solve
 

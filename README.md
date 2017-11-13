@@ -13,7 +13,8 @@
 9. [ImageSmoother](https://leetcode.com/problems/image-smoother)
 10. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)
 11. [Ransom Note](https://leetcode.com/problems/ransom-note)
-12. [Count Primes](https://leetcode.com/problems/count-primes) -- exceeding time limit
+12. [Count Primes](https://leetcode.com/problems/count-primes)
+13. [Two Sum](https://leetcode.com/problems/two-sum) 
 
 ## To Solve
 

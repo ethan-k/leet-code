@@ -17,6 +17,7 @@
 13. [Two Sum](https://leetcode.com/problems/two-sum) 
 14. [Replace Words](https://leetcode.com/problems/replace-words)
 15. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
+16. [Plus One](https://leetcode.com/problems/plus-one)
 
 ## To Solve
 

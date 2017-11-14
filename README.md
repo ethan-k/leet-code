@@ -18,6 +18,8 @@
 14. [Replace Words](https://leetcode.com/problems/replace-words)
 15. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 16. [Plus One](https://leetcode.com/problems/plus-one)
+17. [Power of Four](https://leetcode.com/problems/power-of-four)
+
 
 ## To Solve
 

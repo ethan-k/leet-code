@@ -20,6 +20,7 @@
 16. [Plus One](https://leetcode.com/problems/plus-one)
 17. [Power of Four](https://leetcode.com/problems/power-of-four)
 18. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+19. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 
 
 ## To Solve

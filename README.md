@@ -23,6 +23,7 @@
 19. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 20. [LongestUncommonSubsequence](https://leetcode.com/problems/longest-uncommon-subsequence-i)
 21. [Majority Element](https://leetcode.com/problems/majority-element)
+22. [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)
 
 ## To Solve
 

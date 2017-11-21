@@ -21,7 +21,8 @@
 17. [Power of Four](https://leetcode.com/problems/power-of-four)
 18. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 19. [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
-
+20. [LongestUncommonSubsequence](https://leetcode.com/problems/longest-uncommon-subsequence-i)
+21. [Majority Element](https://leetcode.com/problems/majority-element)
 
 ## To Solve
 
@@ -29,5 +30,5 @@
 
 ## Failed
 
-1. [LongestUncommonSubsequence]()
+
 2. [PermutationInString]()

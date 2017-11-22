@@ -25,6 +25,7 @@
 21. [Majority Element](https://leetcode.com/problems/majority-element)
 22. [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)
 23. [ExcelSheetColumnNumber](https://leetcode.com/problems/excel-sheet-column-number)
+24. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 
 ## To Solve
 

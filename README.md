@@ -26,6 +26,7 @@
 22. [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)
 23. [ExcelSheetColumnNumber](https://leetcode.com/problems/excel-sheet-column-number)
 24. [Detect Capital](https://leetcode.com/problems/detect-capital/)
+25. [SelfDividingNumbers](https://leetcode.com/problems/self-dividing-numbers)
 
 ## To Solve
 

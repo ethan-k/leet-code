@@ -11,12 +11,8 @@ public class SelfDividingNumbers {
 
 	public static List<Integer> selfDividingNumbers(int left, int right) {
 		return IntStream.rangeClosed(left, right).filter(value -> {
-			char[] chars = String.valueOf(value).toCharArray();
-			for (char aChar : chars) {
-				if (aChar == '0') {
-					return false;
-				}
-				if (value % Character.getNumericValue(aChar) != 0) {
+			for (char aChar : String.valueOf(value).toCharArray()) {
+				if (aChar == '0' || value % Character.getNumericValue(aChar) != 0) {
 					return false;
 				}
 			}

@@ -28,6 +28,8 @@
 24. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 25. [SelfDividingNumbers](https://leetcode.com/problems/self-dividing-numbers)
 26. [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)
+27. [Add Digits](https://leetcode.com/problems/add-digits)
+28. [Employee Importance](https://leetcode.com/problems/employee-importance)
 
 ## To Solve
 

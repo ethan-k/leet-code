@@ -27,6 +27,7 @@
 23. [ExcelSheetColumnNumber](https://leetcode.com/problems/excel-sheet-column-number)
 24. [Detect Capital](https://leetcode.com/problems/detect-capital/)
 25. [SelfDividingNumbers](https://leetcode.com/problems/self-dividing-numbers)
+26. [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters)
 
 ## To Solve
 

@@ -31,6 +31,7 @@
 27. [Add Digits](https://leetcode.com/problems/add-digits)
 28. [Employee Importance](https://leetcode.com/problems/employee-importance)
 29. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
+30. [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)
 
 ## To Solve
 

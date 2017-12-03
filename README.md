@@ -33,6 +33,7 @@
 29. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 30. [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)
 31. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+32. [Power of Two](https://leetcode.com/problems/power-of-two/description/)
 
 ## To Solve
 

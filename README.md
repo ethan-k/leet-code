@@ -34,6 +34,7 @@
 30. [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)
 31. [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
 32. [Power of Two](https://leetcode.com/problems/power-of-two/description/)
+33. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 
 ## To Solve
 

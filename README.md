@@ -36,6 +36,7 @@
 32. [Power of Two](https://leetcode.com/problems/power-of-two/description/)
 33. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
 34. [Flood Fill](https://leetcode.com/problems/flood-fill/description/)
+35. [Range Addition II](https://leetcode.com/problems/range-addition-ii/description/)
 
 ## To Solve
 

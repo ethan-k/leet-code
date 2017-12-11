@@ -43,6 +43,7 @@
 39. [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/)
 40. [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 41. [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/)
+42. [Base 7](https://leetcode.com/problems/base-7/description/)
 
 ## To Solve
 

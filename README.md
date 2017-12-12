@@ -45,6 +45,7 @@
 41. [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/)
 42. [Base 7](https://leetcode.com/problems/base-7/description/)
 43. [SumOfLeftLeaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
+44. [Power of Three](https://leetcode.com/problems/power-of-three/description/)
 
 ## To Solve
 

@@ -47,6 +47,7 @@
 43. [SumOfLeftLeaves](https://leetcode.com/problems/sum-of-left-leaves/description/)
 44. [Power of Three](https://leetcode.com/problems/power-of-three/description/)
 45. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
+46. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 ## To Solve
 

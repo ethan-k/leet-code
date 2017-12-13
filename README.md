@@ -48,6 +48,8 @@
 44. [Power of Three](https://leetcode.com/problems/power-of-three/description/)
 45. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
 46. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+47. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+48. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 
 ## To Solve
 

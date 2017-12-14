@@ -51,6 +51,7 @@
 47. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 48. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
 49. [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/)
+50. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 
 ## To Solve
 

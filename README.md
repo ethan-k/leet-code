@@ -54,6 +54,7 @@
 50. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 51. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 52. [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
+53. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 
 ## To Solve
 

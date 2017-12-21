@@ -56,6 +56,7 @@
 52. [Counting Bits](https://leetcode.com/problems/counting-bits/description/)
 53. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/)
 54. [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
+55. [Min Stack](https://leetcode.com/problems/min-stack/description/)
 
 ## To Solve
 

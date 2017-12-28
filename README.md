@@ -58,6 +58,7 @@
 54. [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
 55. [Min Stack](https://leetcode.com/problems/min-stack/description/)
 56. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)
+57. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 
 ## To Solve
 

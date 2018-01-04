@@ -59,6 +59,7 @@
 55. [Min Stack](https://leetcode.com/problems/min-stack/description/)
 56. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)
 57. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+58. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 
 ## To Solve
 

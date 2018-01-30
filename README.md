@@ -60,6 +60,7 @@
 56. [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)
 57. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 58. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
+59. [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)
 
 ## To Solve
 

@@ -68,6 +68,7 @@
 64. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)
 65. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/discuss/132077/Java-Clear-Code-Beats-99-using-Hashing)
 66. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+67. [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 
 ## To Solve
 

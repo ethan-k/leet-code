@@ -1,32 +1,51 @@
 package leecode;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Set;
-import java.util.stream.Collectors;
+import java.util.*;
 
 public class AccountsMerge {
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-	}
+        List<String> list1 = Arrays.asList("John", "johnsmith@mail.com", "john_newyork@mail.com");
+        List<String> list2 = Arrays.asList("John", "johnsmith@mail.com", "john00@mail.com");
+        List<String> list3 = Arrays.asList("Mary", "mary@mail.com");
+        List<String> list4 = Arrays.asList("John", "johnnybravo@mail.com");
 
-//	public List<List<String>> accountsMerge(List<List<String>> accounts) {
-//		// [
-//		// 	["John", "johnsmith@mail.com", "john00@mail.com"],
-//		// 	["John", "johnnybravo@mail.com"],
-//		// 	["John", "johnsmith@mail.com", "john_newyork@mail.com"],
-//		// 	["John", "john00@mail.com", "john_newyork@mail.com"],
-//		// 	["Mary", "mary@mail.com"]
-//		// ]
-//		//
-//		// [johnmsith@mail.com, john
-//		// 같은 이메일 분류
-//		//
-//		Set<String> uniqueEmails = accounts.stream().flatMap(strings -> strings.stream()).filter(s -> s.contains("@")).collect(Collectors.toSet());
-//		uniqueEmails.forEach(s -> {
-//			accounts.stream().filter(strings -> strings.contains(s));
-//		});
-//
-//
-//	}
+        List<List<String>> accounts = new ArrayList<>();
+        accounts.addAll(Arrays.asList(list1, list2, list3, list4));
+        accountsMerge(accounts);
+    }
+
+    public static List<List<String>> accountsMerge(List<List<String>> acts) {
+        Map<String, String> owner = new HashMap<>();
+        Map<String, String> parents = new HashMap<>();
+        Map<String, TreeSet<String>> unions = new HashMap<>();
+        for (List<String> a : acts) {
+            for (int i = 1; i < a.size(); i++) {
+                parents.put(a.get(i), a.get(i));
+                owner.put(a.get(i), a.get(0));
+            }
+        }
+        for (List<String> a : acts) {
+            String p = find(a.get(1), parents);
+            for (int i = 2; i < a.size(); i++)
+                parents.put(find(a.get(i), parents), p);
+        }
+        for (List<String> a : acts) {
+            String p = find(a.get(1), parents);
+            if (!unions.containsKey(p)) unions.put(p, new TreeSet<>());
+            for (int i = 1; i < a.size(); i++)
+                unions.get(p).add(a.get(i));
+        }
+        List<List<String>> res = new ArrayList<>();
+        for (String p : unions.keySet()) {
+            List<String> emails = new ArrayList(unions.get(p));
+            emails.add(0, owner.get(p));
+            res.add(emails);
+        }
+        return res;
+    }
+
+    private static String find(String s, Map<String, String> p) {
+        return Objects.equals(p.get(s), s) ? s : find(p.get(s), p);
+    }
 }

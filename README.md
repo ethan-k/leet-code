@@ -70,6 +70,7 @@
 66. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
 67. [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
 68. [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
+69. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
 
 ## To Solve
 

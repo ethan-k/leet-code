@@ -66,7 +66,13 @@
 62. [Same Tree](https://leetcode.com/problems/same-tree/description/)
 63. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
 64. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)
-65. [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+65. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/discuss/132077/Java-Clear-Code-Beats-99-using-Hashing)
+66. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)
+67. [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)
+68. [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
+69. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
+70. [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)
+71. [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 
 ## To Solve
 

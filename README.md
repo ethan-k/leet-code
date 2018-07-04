@@ -66,6 +66,7 @@
 62. [Same Tree](https://leetcode.com/problems/same-tree/description/)
 63. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
 64. [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/)
+65. [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 
 ## To Solve
 

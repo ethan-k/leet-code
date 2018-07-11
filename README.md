@@ -73,6 +73,7 @@
 69. [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)
 70. [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)
 71. [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
+72. [Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 
 ## To Solve
 

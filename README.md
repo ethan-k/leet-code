@@ -2,7 +2,7 @@
 
 ## Solved
 
-1. [Hamming Distance](https://leetcode.com/problems/hamming-distance)   
+1. [Hamming Distance](https://leetcode.com/problems/hamming-distance)
 2. [Judge Route Circle](https://leetcode.com/problems/judge-route-circle)
 3. [FizzBuzz](https://leetcode.com/problems/fizz-buzz)
 4. [MaxConsecutiveOnes](https://leetcode.com/problems/max-consecutive-ones)
@@ -14,7 +14,7 @@
 10. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)
 11. [Ransom Note](https://leetcode.com/problems/ransom-note)
 12. [Count Primes](https://leetcode.com/problems/count-primes)
-13. [Two Sum](https://leetcode.com/problems/two-sum) 
+13. [Two Sum](https://leetcode.com/problems/two-sum)
 14. [Replace Words](https://leetcode.com/problems/replace-words)
 15. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)
 16. [Plus One](https://leetcode.com/problems/plus-one)
@@ -74,12 +74,13 @@
 70. [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)
 71. [Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)
 72. [Partition Labels](https://leetcode.com/problems/partition-labels/description/)
+73. [Max Increase to Keep City Skyline][https://leetcode.com/problems/max-increase-to-keep-city-skyline/]
+74. [Binary Search Tree to Greater Sum Tree][https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree]
 
 ## To Solve
 
 1. [Permutations](https://leetcode.com/problems/permutations)
 
 ## Failed
-
 
 2. [PermutationInString]()

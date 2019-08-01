@@ -77,6 +77,8 @@
 73. [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)
 74. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)
 75. [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
+76. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
+
 
 ## To Solve
 

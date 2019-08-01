@@ -78,7 +78,8 @@
 74. [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)
 75. [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 76. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)
-77. [Range Sum of BST] (https://leetcode.com/problems/range-sum-of-bst/submissions/)
+77. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/)
+78. [To Lower Case](https://leetcode.com/problems/to-lower-case/)
 
 ## To Solve
 

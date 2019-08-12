@@ -1,5 +1,9 @@
+package leecode;
+
+import leecode.model.TreeNode;
+
 class InsertintoABinarySearchTree {
-  public TreeNode insertIntoBST(TreeNode root, int val) {
+  public void insertIntoBST(TreeNode root, int val) {
     if (root.val < val) {
       if (root.right == null) {
         root.right = new TreeNode(val);
@@ -13,6 +17,5 @@ class InsertintoABinarySearchTree {
         insertIntoBST(root.left, val);
       }
     }
-    return root;
   }
 }

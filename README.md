@@ -83,6 +83,7 @@
 79. [Find Common Characters](https://leetcode.com/problems/find-common-characters/)
 80. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
 81. [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/submissions/)
+82. [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)
 
 ## To Solve
 

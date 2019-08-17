@@ -82,6 +82,7 @@
 78. [To Lower Case](https://leetcode.com/problems/to-lower-case/)
 79. [Find Common Characters](https://leetcode.com/problems/find-common-characters/)
 80. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)
+81. [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/submissions/)
 
 ## To Solve
 

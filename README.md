@@ -88,6 +88,7 @@
 84. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 85. [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)
 85. [DI String Match](https://leetcode.com/problems/di-string-match/submissions/)
+86. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 
 ## To Solve
 

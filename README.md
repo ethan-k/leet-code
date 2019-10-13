@@ -94,6 +94,7 @@
 89. [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)
 90. [Unique Paths](https://leetcode.com/problems/unique-paths/)
 91. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+92. [SortArrayByParity](https://leetcode.com/problems/sort-array-by-parity/)
 
 ## To Solve
 

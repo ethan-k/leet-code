@@ -1,15 +1,14 @@
 package leecode;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.ArrayList;
+import java.util.List;
 
 public class LetterTilePossibilities {
   public static void main(String[] args) {
     System.out.println(new LetterTilePossibilities().numTilePossibilities("AAB"));
   }
 
-  private Set<String> set = new HashSet<>();
+  private List<String> set = new ArrayList<>();
 
   public int numTilePossibilities(String tiles) {
 

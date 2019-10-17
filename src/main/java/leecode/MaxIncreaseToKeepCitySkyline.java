@@ -1,3 +1,5 @@
+package leecode;
+
 class MaxIncreaseToKeepCitySkyline {
     public int maxIncreaseKeepingSkyline(int[][] grid) {
         int numRow = grid.length;
@@ -6,39 +8,24 @@ class MaxIncreaseToKeepCitySkyline {
         int[] leftViewGrid = new int[grid.length];
 
         int sum = 0;
-        for (int i = 0; i < numRow; i++) {
-
+        for (int i = 0; i < topViewGrid.length; i++) {
             for (int j = 0; j < numColumn; j++) {
-                if (topViewGrid[j] == 0) {
-                    topViewGrid[j] = grid[i][j];
-                } else {
-                    if (topViewGrid[j] < grid[i][j]) {
-                        topViewGrid[j] = grid[i][j];
-                    }
-                }
+                topViewGrid[i] = Math.max(grid[j][i], topViewGrid[i]);
+            }
+        }
 
-                if (leftViewGrid[i] == 0) {
-                    leftViewGrid[i] = grid[i][j];
-                } else {
-                    if (leftViewGrid[i] < grid[i][j]) {
-                        leftViewGrid[i] = grid[i][j];
-                    }
-                }
-
+        for (int i = 0; i < leftViewGrid.length; i++) {
+            for (int j = 0; j < numRow; j++) {
+                leftViewGrid[i] = Math.max(grid[i][j], leftViewGrid[i]);
             }
         }
 
         for (int i = 0; i < numRow; i++) {
             for (int j = 0; j < numColumn; j++) {
-                int tallestBuildingFromLeft = leftViewGrid[i];
-                int tallestBuildingFromTop = topViewGrid[j];
-                if (tallestBuildingFromLeft < tallestBuildingFromTop) {
-                    sum += (tallestBuildingFromLeft - grid[i][j]);
-                } else {
-                    sum += (tallestBuildingFromTop - grid[i][j]);
-                }
+                sum += Math.abs(grid[i][j] - Math.min(topViewGrid[j], leftViewGrid[i]));
             }
         }
+
         return sum;
     }
 }

@@ -96,6 +96,7 @@
 91. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 92. [SortArrayByParity](https://leetcode.com/problems/sort-array-by-parity/)
 92. [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+93. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 ## To Solve
 

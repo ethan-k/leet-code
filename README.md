@@ -99,6 +99,7 @@
 93. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 94. [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 95. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
+96. [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 
 ## To Solve
 

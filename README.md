@@ -102,6 +102,7 @@
 96. [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
 97. [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)
 98. [Lemonade Change](https://leetcode.com/problems/lemonade-change/)
+99. [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)
 
 ## To Solve
 

@@ -107,6 +107,7 @@
 101. [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 102. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)
 103. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+104. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 
 ## To Solve
 

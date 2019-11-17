@@ -110,6 +110,7 @@
 104. [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
 104. [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
 105. [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
+106. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
 
 ## To Solve
 

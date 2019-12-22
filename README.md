@@ -118,6 +118,7 @@
 111. [ClimbingStairs](https://leetcode.com/problems/climbing-stairs/solution/)
 112. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 113. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+114. [Remove Element](https://leetcode.com/problems/remove-element/)
 
 ## To Solve
 

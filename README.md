@@ -116,6 +116,7 @@
 109. [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 110. [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)
 111. [ClimbingStairs](https://leetcode.com/problems/climbing-stairs/solution/)
+112. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
 
 ## To Solve
 

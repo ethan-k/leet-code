@@ -13,6 +13,8 @@ class ListNode {
 public class AddTwoNumbers {
 
   public static void main(String[] args) {
+//    [2]
+//    [5,6]
 
     ListNode l11 = new ListNode(2);
     ListNode l21 = new ListNode(5);

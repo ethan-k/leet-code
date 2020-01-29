@@ -125,7 +125,8 @@
 118. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 119. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 120. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  
-
+121. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  
+122  [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 
 ## To Solve
 

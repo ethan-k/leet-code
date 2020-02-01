@@ -126,8 +126,9 @@
 119. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 120. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  
 121. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  
-122  [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
-123  [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+122. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
+123. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+124. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 
 ## To Solve
 

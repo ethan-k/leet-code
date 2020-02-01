@@ -130,6 +130,7 @@
 123. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 124. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 125. [3Sum](https://leetcode.com/problems/3sum/)
+126. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 
 ## To Solve
 

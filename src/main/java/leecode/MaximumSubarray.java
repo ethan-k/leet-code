@@ -1,20 +1,26 @@
 package leecode;
-import java.util.Arrays;
+
 public class MaximumSubarray {
 
-	public static void main(String[] args) {
-		int[] src = new int[] {1, 2, 3, 4, 5};
-		int b1[] = Arrays.copyOfRange(src, 0, 2);
-		maxSubArray(src);
-	}
-	public static int maxSubArray(int[] nums) {
-		if (nums.length == 1) {
-			return nums[0];
-		}
-		int result = 0;
-		for (int num : nums) {
-			result+=num;
-		}
-		return Math.max(result, maxSubArray(Arrays.copyOfRange(nums, 1, nums.length)));
-	}
+  public int maxSubArray(int[] arr) {
+    int max = Integer.MIN_VALUE;
+    int k = 1;
+    while (k <= arr.length) {
+      int windowSum = 0;
+      int windowStart = 0;
+      for (int i = 0; i < arr.length; i++) {
+        int windowEnd = i;
+        windowSum += arr[i];
+        if (k == (windowEnd - windowStart + 1)) {
+          max = Math.max(windowSum, max);
+          windowSum -= arr[windowStart];
+          windowStart++;
+        }
+      }
+      k++;
+    }
+
+
+    return max;
+  }
 }

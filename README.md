@@ -131,6 +131,7 @@
 124. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
 125. [3Sum](https://leetcode.com/problems/3sum/)
 126. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+127. [MaximumSubArray](https://leetcode.com/problems/maximum-subarray/)
 
 ## To Solve
 

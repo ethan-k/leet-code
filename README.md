@@ -132,6 +132,7 @@
 125. [3Sum](https://leetcode.com/problems/3sum/)
 126. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 127. [MaximumSubArray](https://leetcode.com/problems/maximum-subarray/)
+128. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ## To Solve
 

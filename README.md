@@ -133,6 +133,7 @@
 126. [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 127. [MaximumSubArray](https://leetcode.com/problems/maximum-subarray/)
 128. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+129. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 
 ## To Solve
 

@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
+import java.util.Stack;
 
 
 interface NestedInteger {
@@ -39,6 +40,7 @@ public class FlattenNestedListIterator implements Iterator<Integer> {
   }
 
   public Integer next() {
+
     return queue.poll();
   }
 

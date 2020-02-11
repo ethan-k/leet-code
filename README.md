@@ -134,6 +134,7 @@
 127. [MaximumSubArray](https://leetcode.com/problems/maximum-subarray/)
 128. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 129. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+130. [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 
 ## To Solve
 

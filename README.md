@@ -136,6 +136,8 @@
 129. [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
 130. [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)
 131. [Max Stack](https://leetcode.com/problems/max-stack/)
+132. [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+133. [Car Pooling](https://leetcode.com/problems/car-pooling/)
 
 ## To Solve
 

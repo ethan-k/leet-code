@@ -142,6 +142,7 @@
 135. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 136. [Most Common Word](https://leetcode.com/problems/most-common-word/)
 137. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+138. [String Compression](https://leetcode.com/problems/string-compression/)
 
 ## To Solve
 

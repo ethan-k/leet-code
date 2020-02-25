@@ -143,6 +143,7 @@
 136. [Most Common Word](https://leetcode.com/problems/most-common-word/)
 137. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 138. [String Compression](https://leetcode.com/problems/string-compression/)
+139. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 
 ## To Solve
 

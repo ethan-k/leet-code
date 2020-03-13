@@ -144,6 +144,7 @@
 137. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 138. [String Compression](https://leetcode.com/problems/string-compression/)
 139. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+140. [ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 
 ## To Solve
 

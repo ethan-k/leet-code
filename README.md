@@ -146,6 +146,7 @@
 139. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
 140. [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 141. [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)
+142. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 
 ## To Solve
 

@@ -124,8 +124,8 @@
 117. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 118. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 119. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-120. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  
-121. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  
+120. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+121. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 122. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 123. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 124. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
@@ -149,6 +149,7 @@
 142. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 143. [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)
 144. [Maximal Square](https://leetcode.com/problems/maximal-square/)
+145. [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 
 ## To Solve
 

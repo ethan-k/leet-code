@@ -156,6 +156,7 @@
 149. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)
 150. [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)
 151. [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/)
+152. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 
 ## To Solve
 

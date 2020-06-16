@@ -161,6 +161,7 @@
 154. [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 155. [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)
 156. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+157. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 
 
 ## To Solve

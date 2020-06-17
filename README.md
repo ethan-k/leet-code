@@ -162,6 +162,7 @@
 155. [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)
 156. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 157. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+158. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 
 
 ## To Solve

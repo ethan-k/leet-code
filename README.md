@@ -164,6 +164,7 @@
 157. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 158. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)
 159. [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)
+160. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 
 
 ## To Solve

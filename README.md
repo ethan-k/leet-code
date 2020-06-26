@@ -169,6 +169,7 @@
 162. [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 163. [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
 154. [High Five](https://leetcode.com/problems/high-five/)
+155. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 
 ## To Solve
 

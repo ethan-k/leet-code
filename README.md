@@ -172,6 +172,7 @@
 155. [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)
 156. [Nested List Weight SumNested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)
 157. [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
+158. [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)
 
 ## To Solve
 

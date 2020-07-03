@@ -176,6 +176,7 @@
 159. [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 160. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 161. [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
+162. [Path Sum](https://leetcode.com/problems/path-sum/)
 
 ## To Solve
 

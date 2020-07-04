@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.linkedlist;
 
 /*
 	Reverse a singly linked list.

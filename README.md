@@ -178,6 +178,7 @@
 161. [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 162. [Path Sum](https://leetcode.com/problems/path-sum/)
 163. [SumOfDigitsInTheMinimumNumber](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/)
+164. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ## To Solve
 

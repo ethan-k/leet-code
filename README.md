@@ -179,6 +179,8 @@
 162. [Path Sum](https://leetcode.com/problems/path-sum/)
 163. [SumOfDigitsInTheMinimumNumber](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/)
 164. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+165. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+
 
 ## To Solve
 

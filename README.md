@@ -180,6 +180,7 @@
 163. [SumOfDigitsInTheMinimumNumber](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/)
 164. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 165. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+166. [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
 
 
 ## To Solve

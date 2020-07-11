@@ -181,6 +181,7 @@
 164. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 165. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 166. [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)
+167. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 
 
 ## To Solve

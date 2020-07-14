@@ -185,6 +185,7 @@
 168. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
 169. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 170. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+171. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 
 
 ## To Solve

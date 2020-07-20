@@ -193,6 +193,8 @@
 176. [Insert Interval](https://leetcode.com/problems/insert-interval/)
 177. [Sort List](https://leetcode.com/problems/sort-list/)
 178. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+179. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+
 
 
 ## To Solve

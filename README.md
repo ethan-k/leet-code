@@ -195,6 +195,7 @@
 178. [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
 179. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 180. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/)
+181. [Next Permutation](https://leetcode.com/problems/next-permutation/submissions/)
 
 
 ## To Solve

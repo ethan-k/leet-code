@@ -1,5 +1,7 @@
 package leetcode.stack;
 
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Stack;
 
 public class ValidParentheses {
@@ -13,40 +15,26 @@ public class ValidParentheses {
     System.out.println(new ValidParentheses().isValid("[])"));
   }
 
+  Map<Character, Character> pairs;
+
+  ValidParentheses() {
+    pairs = new HashMap<>();
+    pairs.put('(', ')');
+    pairs.put('[', ']');
+    pairs.put('{', '}');
+  }
+
   public boolean isValid(String s) {
-    if (s.length() == 1)
-      return false;
-    char[] arr = s.toCharArray();
+
     Stack<Character> stack = new Stack<>();
 
-    for (char c : arr) {
-      if (c == '(' || c == '{' || c == '[') {
+    for(int i=0;i<s.length();i++) {
+      char c = s.charAt(i);
+      if(pairs.containsKey(c)) {
         stack.push(c);
-        continue;
-      }
-
-      if (!stack.isEmpty()) {
-        char top = stack.peek();
-        if (top == '(') {
-          if (c != ')') {
-            return false;
-          }
-          stack.pop();
-        } else if (top == '{') {
-          if (c != '}') {
-            return false;
-          }
-          stack.pop();
-        } else if (top == '[') {
-          if (c != ']') {
-            return false;
-          }
-          stack.pop();
-        } else {
-          stack.push(c);
-        }
       } else {
-        stack.push(c);
+        if (stack.isEmpty() || pairs.get(stack.pop()) != c)
+          return false;
       }
     }
     return stack.size() == 0;

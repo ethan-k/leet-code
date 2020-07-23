@@ -197,6 +197,8 @@
 180. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/solution/)
 181. [Next Permutation](https://leetcode.com/problems/next-permutation/submissions/)
 182. [Missing Number](https://leetcode.com/problems/missing-number/)
+183. [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+184. [House Robber III](https://leetcode.com/problems/house-robber-iii/)
 
 
 ## To Solve

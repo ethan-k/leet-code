@@ -205,6 +205,7 @@
 187. [Sort Colors](https://leectcode.com/problems/binary-tree-level-order-traversal/)
 188. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 189. [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
+190. [NQueen](https://leetcode.com/problems/n-queens/)
 
 ## To Solve
 

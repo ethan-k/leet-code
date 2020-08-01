@@ -206,6 +206,7 @@
 188. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 189. [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 190. [NQueen](https://leetcode.com/problems/n-queens/)
+191. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 
 ## To Solve
 

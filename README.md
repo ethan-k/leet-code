@@ -207,6 +207,7 @@
 189. [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)
 190. [NQueen](https://leetcode.com/problems/n-queens/)
 191. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+192. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 
 ## To Solve
 

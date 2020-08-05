@@ -209,6 +209,7 @@
 191. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
 192. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 193. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+194. [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 
 ## To Solve
 

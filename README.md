@@ -210,6 +210,7 @@
 192. [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)
 193. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 194. [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
+195. [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
 
 ## To Solve
 

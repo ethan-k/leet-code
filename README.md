@@ -212,6 +212,7 @@
 194. [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)
 195. [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
 196. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+197. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 
 ## To Solve
 

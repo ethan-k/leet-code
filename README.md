@@ -219,6 +219,8 @@
 201. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 202. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 203. [Backspace String Compare Easy](https://leetcode.com/problems/backspace-string-compare/)
+204. [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
+205. [Friend Circles](https://leetcode.com/problems/friend-circles/)
 
 ## To Solve'
 

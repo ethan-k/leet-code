@@ -224,7 +224,10 @@
 206. [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
 207. [Clone Graph](https://leetcode.com/problems/clone-graph/)
 208. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
-209. [](https://leetcode.com/problems/remove-linked-list-elements/)
+209. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+210. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-linked-list-elements/)
+211. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+212. [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)
 
 
 ## To Solve'

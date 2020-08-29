@@ -214,11 +214,11 @@
 196. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 197. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 198. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-199. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-200. [Game of Life](https://leetcode.com/problems/game-of-life/)
+199. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-ti
 201. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 202. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
-203. [Backspace String Compare Easy](https://leetcode.com/problems/backspace-string-compare/)
+203. [Backspace String Compare Easy](https://leetcode.com/problems/backspace-string-compare/)me-to-buy-and-sell-stock-with-cooldown/)
+200. [Game of Life](https://leetcode.com/problems/game-of-life/)
 204. [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)
 205. [Friend Circles](https://leetcode.com/problems/friend-circles/)
 206. [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)
@@ -228,6 +228,7 @@
 210. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-linked-list-elements/)
 211. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 212. [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)
+213. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 
 
 ## To Solve'

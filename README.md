@@ -229,6 +229,7 @@
 211. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 212. [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)
 213. [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+214. [Hit Counter](https://leetcode.com/problems/design-hit-counter/)
 
 
 ## To Solve'

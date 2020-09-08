@@ -234,6 +234,7 @@
 216. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 217. [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 218. [Word Pattern](https://leetcode.com/problems/word-pattern/)
+219. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 
 
 ## To Solve'

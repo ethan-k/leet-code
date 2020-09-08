@@ -233,6 +233,7 @@
 215. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 216. [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)
 217. [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
+218. [Word Pattern](https://leetcode.com/problems/word-pattern/)
 
 
 ## To Solve'

@@ -235,6 +235,7 @@
 217. [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)
 218. [Word Pattern](https://leetcode.com/problems/word-pattern/)
 219. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
+220. [Sum of Root To Leaf Binary Number](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
 
 
 ## To Solve'

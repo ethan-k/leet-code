@@ -237,6 +237,7 @@
 219. [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)
 220. [Sum of Root To Leaf Binary Number](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)
 221. [Bulls And Cows](https://leetcode.com/problems/bulls-and-cows/)
+222. [Walls and Gates](https://leetcode.com/problems/walls-and-gates/)
 
 
 ## To Solve'

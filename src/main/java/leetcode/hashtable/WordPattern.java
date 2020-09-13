@@ -7,7 +7,7 @@ public class WordPattern {
 
     Map<Character, String> mapping = new HashMap<>();
     Set<String> seen = new HashSet<>();
-
+    
     int i = 0, j = 0;
 
     char[] patterns = pattern.toCharArray();

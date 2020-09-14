@@ -9,30 +9,25 @@ import java.util.List;
 public class InsertInterval {
   public int[][] insert(int[][] intervals, int[] newInterval) {
 
-    if (intervals.length == 0 && newInterval.length == 0)
-      return new int[][]{{}};
-
-    Arrays.sort(intervals, Comparator.comparingInt(a -> a[0]));
-
-    List<int[]> original = new ArrayList<>();
-    original.add(newInterval);
-    Collections.addAll(original, intervals);
-    original.sort(Comparator.comparingInt(a -> a[0]));
 
     List<int[]> list = new ArrayList<>();
+    Collections.addAll(list, intervals);
+    list.add(newInterval);
+    Collections.sort(list, Comparator.comparingInt(a -> a[0]));
 
-    int[] mergedNewInterval = original.get(0);
-    list.add(mergedNewInterval);
-    for (int[] interval : original) {
-      if (interval[0] <= mergedNewInterval[1]) {
-        mergedNewInterval[1] = Math.max(mergedNewInterval[1], interval[1]);
+    List<int[]> newIntervals = new ArrayList<>();
+    int[] toMerge = list.get(0);
+
+    for(int[] interval: list) {
+      if (interval[0] <= toMerge[1]) {
+        toMerge[1] = Math.max(interval[1], toMerge[1]);
       } else {
-        mergedNewInterval = interval;
-        list.add(mergedNewInterval);
+        newIntervals.add(toMerge);
+        toMerge = interval;
       }
     }
+    newIntervals.add(toMerge);
 
-    return list.toArray(new int[list.size()][]);
-
+    return newIntervals.toArray(new int[newIntervals.size()][]);
   }
 }

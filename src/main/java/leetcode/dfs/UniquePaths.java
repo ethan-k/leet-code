@@ -1,4 +1,4 @@
-package leetcode.dynamic;
+package leetcode.dfs;
 
 
 public class UniquePaths {

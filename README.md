@@ -242,6 +242,8 @@
 224. [Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/)
 225. [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)
 226. [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
+226. [Inorder Successor in BST Two](https://leetcode.com/problems/inorder-successor-in-bst/)
+227. [Count And Say](https://leetcode.com/problems/count-and-say/)
 
 
 

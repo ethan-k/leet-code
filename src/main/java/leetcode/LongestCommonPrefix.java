@@ -35,3 +35,36 @@ public class LongestCommonPrefix {
 		}
 	}
 }
+
+class Solution {
+	public String longestCommonPrefix(String[] strs) {
+
+		return findPrefix(0, "", strs);
+	}
+
+	public String findPrefix(int curIdx, String prefix, String[] strs) {
+
+		boolean matched = true;
+		char ch = Character.MIN_VALUE;
+		for(String str: strs) {
+			if (curIdx >= str.length()) {
+				return "";
+			}
+
+			if (ch == Character.MIN_VALUE) {
+				ch = str.charAt(curIdx);
+			} else {
+				if (ch != str.charAt(curIdx))
+					return "";
+			}
+		}
+
+		if (matched) {
+			return findPrefix(curIdx + 1, prefix + ch, strs);
+		}
+
+		return prefix;
+	}
+
+
+}

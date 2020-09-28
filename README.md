@@ -254,6 +254,7 @@
 235. [Gas Station](https://leetcode.com/problems/gas-station/)
 236. [LFU Cache](https://leetcode.com/problems/lfu-cache/)
 237. [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+238. [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)
 
 
 ## To Solve'

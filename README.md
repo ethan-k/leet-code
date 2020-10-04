@@ -260,6 +260,7 @@
 241. [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 242. [WordBreak](https://leetcode.com/problems/word-break/)
 243. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+244. [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)
 
 
 ## To Solve'

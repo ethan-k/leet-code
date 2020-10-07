@@ -264,6 +264,7 @@
 245. [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)
 246. [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)
 247. [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)
+248. [Rotate List](https://leetcode.com/problems/rotate-list/)
 
 
 ## To Solve'

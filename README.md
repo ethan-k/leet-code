@@ -267,6 +267,7 @@
 248. [Rotate List](https://leetcode.com/problems/rotate-list/)
 249. [Binary Search](https://leetcode.com/problems/binary-search/)
 250. [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)
+251. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/)
 
 
 ## To Solve'

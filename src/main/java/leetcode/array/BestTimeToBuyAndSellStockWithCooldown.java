@@ -1,5 +1,7 @@
 package leetcode.array;
 
+import java.util.Arrays;
+
 public class BestTimeToBuyAndSellStockWithCooldown {
   public int maxProfit(int[] prices) {
 

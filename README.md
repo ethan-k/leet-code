@@ -270,6 +270,7 @@
 251. [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/)
 252. [Buddy Strings](https://leetcode.com/problems/buddy-strings/)
 253. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+254. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 
 

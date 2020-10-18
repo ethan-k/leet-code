@@ -273,6 +273,7 @@
 254. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 255. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 256. [Armstrong Number](https://leetcode.com/problems/armstrong-number/)
+257. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
 
 

@@ -271,6 +271,7 @@
 252. [Buddy Strings](https://leetcode.com/problems/buddy-strings/)
 253. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 254. [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+255. [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 
 

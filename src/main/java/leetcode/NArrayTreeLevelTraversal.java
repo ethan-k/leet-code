@@ -20,8 +20,8 @@ class Node {
 
 public class NArrayTreeLevelTraversal {
 
-  public static void main(String[] args) {
-
+  public static void main(String[] args) throws InterruptedException {
+    
   }
 
   List<List<Integer>> result = new ArrayList<>();

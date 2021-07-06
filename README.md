@@ -282,6 +282,7 @@
 263. [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)
 264. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 265. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
+266. [Binary Gap](https://leetcode.com/problems/binary-gap/)
 
 
 

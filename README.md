@@ -283,6 +283,7 @@
 264. [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)
 265. [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 266. [Binary Gap](https://leetcode.com/problems/binary-gap/)
+267. [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
 
 

@@ -286,6 +286,7 @@
 282. [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 283. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 284. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
+285. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 
 
 

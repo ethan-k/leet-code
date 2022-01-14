@@ -287,6 +287,7 @@
 283. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 284. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 285. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
+286. [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)
 
 
 

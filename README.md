@@ -214,7 +214,7 @@
 210. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 211. [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
 212. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
-213. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-ti
+213. [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-ti)
 214. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 215. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 216. [Backspace String Compare Easy](https://leetcode.com/problems/backspace-string-compare/)me-to-buy-and-sell-stock-with-cooldown/)
@@ -288,6 +288,7 @@
 284. [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 285. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 286. [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)
+287. [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
 
 
 

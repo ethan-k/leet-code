@@ -289,6 +289,7 @@
 285. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/)
 286. [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)
 287. [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)
+288. [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 
 
 

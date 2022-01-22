@@ -292,6 +292,7 @@
 288. [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
 289. [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)
 290. [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+291.  [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 
 
 

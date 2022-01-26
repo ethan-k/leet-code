@@ -294,6 +294,7 @@
 290. [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 291. [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 292. [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)
+293. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
 
 
 

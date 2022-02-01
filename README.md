@@ -298,7 +298,7 @@
 294. [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 295. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 296. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-
+297. [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)
 
 
 ## To Solve'

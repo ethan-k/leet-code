@@ -297,6 +297,7 @@
 293. [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
 294. [Jump Game III](https://leetcode.com/problems/jump-game-iii/)
 295. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+296. [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 
 
 

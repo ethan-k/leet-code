@@ -302,6 +302,7 @@
 298. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 299. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 300. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+300. [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
 
 ## To Solve
 

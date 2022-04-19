@@ -304,6 +304,7 @@
 300. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
 301. [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)
 302. [Watering Plants](https://leetcode.com/problems/watering-plants/)
+303. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)
 
 ## To Solve
 

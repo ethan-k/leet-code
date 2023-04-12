@@ -1,5 +1,78 @@
 # LEETCODE
 
+## Cheat Sheet
+
+
+### Binary Tree Traversals
+
+Time complexity: O(n), n = size(tree)
+
+#### Java (preorder, inorder, postorder)
+
+```java
+void preorder(TreeNode root) {
+   if (root == null) {
+        return
+   }
+    System.out.println(root.value)
+    preorder(root.left)
+    preorder(root.right)
+}
+
+
+void inorder(TreeNode root) {
+    if (root == null) {
+        return
+    }
+    inorder(root.left)
+    System.out.println(root.value)
+    inorder(root.right)
+}
+
+void postorder(TreeNode root) {
+    if (root == null) {
+        return
+    }
+    postorder(root.left)
+    postorder(root.right)
+    System.out.println(root.value)
+}
+
+```
+
+#### Kotlin (preorder, inorder, postorder)
+```kotlin
+fun preorder(root: TreeNode?) {
+   if (root == null) {
+        return
+   }
+    println(root.value)
+    preorder(root.left)
+    preorder(root.right)
+}
+
+
+fun inorder(root: TreeNode?) {
+    if (root == null) {
+        return
+    }
+    inorder(root.left)
+    println(root.value)
+    inorder(root.right)
+}
+
+fun postorder(root: TreeNode?) {
+    if (root == null) {
+        return
+    }
+    postorder(root.left)
+    postorder(root.right)
+    println(root.value)
+}
+```
+
+
+
 ## Solved
 
 1. [Hamming Distance](https://leetcode.com/problems/hamming-distance)
@@ -124,8 +197,8 @@
 120. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 121. [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 122. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-123. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)  
-124. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)  
+123. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+124. [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
 125. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
 126. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 127. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
@@ -318,3 +391,4 @@
 
 1. [ATM](https://www.acmicpc.net/problem/11399)
 2. [Compare two numbers](https://www.acmicpc.net/problem/1330)
+```
